@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ## About me
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuriy-vasilev)](https://github.com/yuriy-vasilev/github-profile-trophy)
 
+### LeetCode Stats
+![](https://leetcard.jacoblin.cool/yvasilev)
+
 ### 📋 Languages
 
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
