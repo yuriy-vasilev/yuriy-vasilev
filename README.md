@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ### LeetCode Stats
 ![](https://leetcard.jacoblin.cool/yvasilev)
 
+<!--
 ### 📋 Languages
 
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -45,3 +46,5 @@ Here are some ideas to get you started:
 - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+-->
+
