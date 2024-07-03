@@ -16,10 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ## About me
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuriy-vasilev)](https://github.com/yuriy-vasilev/github-profile-trophy)
 
 ### LeetCode Stats
+
 ![](https://leetcard.jacoblin.cool/yvasilev)
+
+## Personal HackerRank Profile
+
+[View Profile](https://www.hackerrank.com/profile/yuriy2302)
 
 <!--
 ### 📋 Languages
