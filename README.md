@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Personal HackerRank Profile
-
-[View Profile](https://www.hackerrank.com/profile/yuriy2302)
-
 <!--
 ### 📋 Languages
 
